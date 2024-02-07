@@ -1,7 +1,7 @@
 The Links Of the Webpages are Given Below :
 
 
-https://app.netlify.com/sites/jatin-bitcot-30th-aug/
+[https://app.netlify.com/sites/jatin-bitcot-30th-aug/](https://jatin-bitcot-30th-aug.netlify.app/)
 
 https://app.netlify.com/sites/jatin-bitcot-25th-aug/
 
