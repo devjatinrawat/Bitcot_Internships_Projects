@@ -3,7 +3,7 @@ The Links Of the Webpages are Given Below :
 
 https://jatin-bitcot-30th-aug.netlify.app/
 
-https://jatin-bitcot-25th-aug.netlify.app/
+https://bitcot-25th-september.netlify.app/
 
 https://jatin-bitcot-13-sept.netlify.app/
 
