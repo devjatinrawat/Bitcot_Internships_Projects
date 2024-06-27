@@ -1,0 +1,33 @@
+
+
+
+
+/* For Example media only screen ( max-wdth : 991px ){
+
+    /* For Tablets */
+    @media only screen and (max-width: 991px) {
+        
+        .main_banner_col h1{
+            font-size: 3rem !important;
+        }
+
+        .navbar_container a{
+            font-size: 1rem !important;
+        }
+
+        
+}
+
+
+    /* For mobile devices */
+ @media only screen and (max-width: 767px) {
+
+    .main_banner_col h1{
+        font-size: 2.5rem !important;
+    }
+
+    .navbar_container .logo_img{
+        width: 50% !important;
+    }
+
+  } 
