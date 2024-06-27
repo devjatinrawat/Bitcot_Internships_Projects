@@ -11,8 +11,6 @@ https://jatin-bitcot-11th-aug.netlify.app/
 
 https://jatin-bitcot-8th-aug.netlify.app/
 
-https://bitcot-7th-sept.netlify.app/
-
 https://bitcot-6th-september.netlify.app/
 
 
